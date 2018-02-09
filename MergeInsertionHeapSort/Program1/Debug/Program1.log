@@ -1,0 +1,6 @@
+﻿  sortingAlgs.cpp
+c:\users\kade\documents\college\junior\cs 340\program1\program1\sortingalgs.cpp(257): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 340\program1\program1\sortingalgs.cpp(45): warning C4101: 'seeList': unreferenced local variable
+c:\users\kade\documents\college\junior\cs 340\program1\program1\sortingalgs.cpp(50): warning C4101: 'startTime': unreferenced local variable
+  Program1.vcxproj -> C:\Users\Kade\Documents\College\Junior\CS 340\Program1\Debug\Program1.exe
+  Program1.vcxproj -> C:\Users\Kade\Documents\College\Junior\CS 340\Program1\Debug\Program1.pdb (Full PDB)

@@ -1,0 +1,4 @@
+This program runs in Visual Studio 2015.
+
+After running the program, all the user has to input is 1 - 2 based on their desired file, then the program will run. 
+It will print Kruskal's Algorithm and Prim's Algorithm to the screen and to a file.

@@ -1,0 +1,7 @@
+﻿  dijkstra.cpp
+c:\users\kade\documents\college\junior\cs 340\program5\program5\dijkstra.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 340\program5\program5\dijkstra.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 340\program5\program5\dijkstra.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 340\program5\program5\dijkstra.cpp(197): warning C4018: '<': signed/unsigned mismatch
+  Program5.vcxproj -> C:\Users\Kade\Documents\College\Junior\CS 340\Program5\Debug\Program5.exe
+  Program5.vcxproj -> C:\Users\Kade\Documents\College\Junior\CS 340\Program5\Debug\Program5.pdb (Full PDB)

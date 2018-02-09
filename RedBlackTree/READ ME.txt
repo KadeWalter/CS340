@@ -1,0 +1,14 @@
+To use this program, compile in Visual Studio.
+
+Run the program and the user is asked to input 1 or 2 based on their desired tree algorithm.
+
+Then the user is asked to input 1, 2, 3, 4, or 5 based on their desired file size (how many words they want sorted).
+
+Finally, the user is asked to input 1 or 2 depending on if they want the file sorted or permuted. 
+
+The program will then build the tree. After this is asks the user to input a word to search for.
+
+The program will search the tree for the word. If it finds the word, then it will print that the word was found, how long it took to build the tree, and the time it took to search for the word.
+If it doesn't find the word, then it will print that the word wasn't found, how long it took to build the tree, and how long it took to find the word.
+
+Finally, the program asks the user to input 1 or 2 if they want to play again.

@@ -1,0 +1,6 @@
+Kruskal's Algorithm Results:
+	    Edge between 4 and 6 with a weight of 1
+	    Edge between 3 and 5 with a weight of 2
+	    Edge between 2 and 5 with a weight of 3
+	    Edge between 5 and 6 with a weight of 4
+	    Edge between 1 and 3 with a weight of 5

@@ -1,0 +1,7 @@
+﻿  kruskal.cpp
+c:\users\kade\documents\college\junior\cs 340\program4\program4\kruskal.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 340\program4\program4\kruskal.cpp(127): warning C4018: '<': signed/unsigned mismatch
+  driver.cpp
+  Generating Code...
+  Program4.vcxproj -> C:\Users\Kade\Documents\College\Junior\CS 340\Program4\Debug\Program4.exe
+  Program4.vcxproj -> C:\Users\Kade\Documents\College\Junior\CS 340\Program4\Debug\Program4.pdb (Full PDB)

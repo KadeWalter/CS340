@@ -1,0 +1,5 @@
+This program runs in Visual Studio 2015.
+
+After running the program, all the user has to input is 1 - 3 based on their desired file, then the program will run. 
+It will print to the screen if the file was acyclical graph or not.
+If it was, it will print the topologically sorted order. If not, it prints the back edges.

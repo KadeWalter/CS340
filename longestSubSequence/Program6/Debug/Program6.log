@@ -1,0 +1,9 @@
+﻿  driver.cpp
+c:\users\kade\documents\college\junior\cs 340\program6\program6\driver.cpp(66): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 340\program6\program6\driver.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\kade\documents\college\junior\cs 340\program6\program6\driver.cpp(129): warning C4101: 'y': unreferenced local variable
+c:\users\kade\documents\college\junior\cs 340\program6\program6\driver.cpp(129): warning C4101: 'x': unreferenced local variable
+c:\users\kade\documents\college\junior\cs 340\program6\program6\driver.cpp(173): warning C4101: 'y': unreferenced local variable
+c:\users\kade\documents\college\junior\cs 340\program6\program6\driver.cpp(173): warning C4101: 'x': unreferenced local variable
+  Program6.vcxproj -> C:\Users\Kade\Documents\College\Junior\CS 340\Program6\Debug\Program6.exe
+  Program6.vcxproj -> C:\Users\Kade\Documents\College\Junior\CS 340\Program6\Debug\Program6.pdb (Full PDB)

@@ -1,0 +1,9 @@
+To use this program, compile in Visual Studio.
+
+Run the program and the user is asked to input 1, 2 or 3 based on their desired sorting algorithm.
+
+Then the user is asked to input 1, 2, 3, 4, or 5 based on their desired file size (how many words they want sorted).
+
+Finally, the user is asked to input 1 or 2 depending on if they want the file sorted or permuted. 
+
+THe program will execute, and then print the amount of seconds it took to sort the desired input data, and will print instructions to get to the output text file of the sorted words. 

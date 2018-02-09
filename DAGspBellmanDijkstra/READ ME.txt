@@ -1,0 +1,7 @@
+This program runs in Visual Studio 2015.
+
+After running the program, all the user has to input is 1 - 5 based on their desired file, then the user will be asked to enter the desired start node and the desired end node. Then program will run. 
+
+It will automatically choose to run DAG-SP if there are no cycles, Dijkstra if their are cycles but no negative edges, or Bellman in any other case.
+
+When the program is complete, it will print the name of the algorithm used, the edge paths with each weight, and then the total weight from the desired start and end nodes.

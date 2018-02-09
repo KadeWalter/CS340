@@ -1,0 +1,4 @@
+This program runs in Visual Studio 2015.
+
+The program simply outputs the results of a knapsack txt file. The txt file name has to be changed within the code itself. There is no user input.
+
